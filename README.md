@@ -11,7 +11,7 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 
 ---
 
-### 🔍 Project Objectives
+## 🔍 Project Objectives
 - Monitor overall workforce status
 - Analyze employee attrition trends
 - Understand employee demographics
